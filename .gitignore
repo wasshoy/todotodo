@@ -1,0 +1,5 @@
+.DS_Store
+.python-version
+.vscode/
+__pycahce__/
+app.cpython-36.pyc
